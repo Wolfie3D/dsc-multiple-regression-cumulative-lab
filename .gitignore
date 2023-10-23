@@ -127,3 +127,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Unmerged paths
+../../README.md
+
+# Modified files
+../dsc-hypothesis-testing-lab/dsc-hypothesis-testing-lab
+../dsc-sql-lab
+../../Git-Merge-Lab
+../../Phase Project/dsc-phase-1-project-v2-4
+../../practice/spotify_data_Analysis
+
+# Untracked files and directories
+./
+../../checkpoint/dsc-bayesian-stats-checkpoint-master/
+../../checkpoint/dsc-hypothesis-testing-checkpoint-master/
+../../checkpoint/dsc-hypothesis-testing-checkpoint-master/dsc-hypothesis-testing-checkpoint-master/
+../../checkpoint/dsc-linear-regression-checkpoint-master/
